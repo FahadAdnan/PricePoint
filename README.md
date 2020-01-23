@@ -34,4 +34,9 @@ Here is a YouTube video that shows a demo: https://youtu.be/H_j5QMsm1-w
 
 Here is a screen shot of out web application:
 ![](websitescreenshot.jpg)
+
+## How you can use it 
+To use this applicaiton you must have the UIPath Studio installed and you must change the location of the 
+excel file relative to your computer. We are currently working on linking this with a live website for users 
+to use without having to download all the necessary files.
 "# PricePoint" 
