@@ -4,6 +4,9 @@ Languages Used: HTML, CSS, JavaScript
 <br>
 Tools: Handlebars.js, Bootstrap, Sheets.js, UI Path
 
+## Award 
+Won the UIPath Automation Hack at StarterHacks2020. https://devpost.com/software/pricepoint-d48iky
+
 Contributors: zaydadnan08, FahadAdnan, Angel-shah, AkbarZafar, and UmarAsif
 ## Inspiration
 
